@@ -1,10 +1,10 @@
 # Personal_Portfolio
 
-1.Introdution.
-2.Skills.
-3.Education.
-4.Projects.
-5.Contact Information.
+# 1.Introdution.
+# 2.Skills.
+# 3.Education.
+# 4.Projects.
+# 5.Contact Information.
 
 ![image](https://github.com/MuddamPoojithaa/Personal_Portfolio/assets/127126687/cf419299-11e6-4158-b36f-f93f95dcbdf5)
 
